@@ -18,6 +18,11 @@ a:hover {
     text-decoration:  underline;
 }
 
+.label a {
+    font-size: 14px;
+    text-align: right;
+}
+
 body {
     margin: 0px;
     padding: 0px;
